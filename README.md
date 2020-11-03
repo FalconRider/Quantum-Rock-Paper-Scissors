@@ -6,7 +6,6 @@ That would be 4 nodes with all 3 vertices as constraints. hmm  To play you thow 
 
 In a square there are 6 verts and I constrained 3 so sb 3 back. I'll try a little recoding the answer per the social networks example line "nx.relabel_nodes(G,{0: Alice,1:Bob - -  " and I should get the words instead if just numerical.  It will be interesting to see if it  favors 1 or is truely random.
 
-And they say there's no useful everyday business apps for Quantum computers!
 
 
 Yup it worked!! Pics of successive runs included and run times.
