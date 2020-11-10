@@ -1,5 +1,5 @@
 # Quantum-Rock-Paper-Scissors
-Another Leap  experiment. QRock,  QPaper,  QScissors 
+Another Leap experiment. QRock,  QPaper,  QScissors 
 Noticing I get a different but correct answer each time I ran a Leap Program I wondered where I could use this. And they seem to be random.  Sounds like that game -   Rock Paper Scissors.
 
 That would be 4 nodes with all 3 vertices as constraints. hmm  To play you thow down your offer with one hand and  and hit the green arrow to run the program with the other. The constraint pairs would  just be: (1,2)  (2,3) ( 3,1)  and a (4,4)  The last one is to let Q know there are 4 nodes not just 3. 
